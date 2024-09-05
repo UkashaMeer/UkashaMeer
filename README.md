@@ -1,5 +1,12 @@
-# 💫 About Me:
-### Hi there! 👋<br><br>- 🔭 I’m currently working on creating a WordPress plugin that allows users to build customizable business cards.<br>- 🌱 I’m currently learning WordPress theme and plugin development.<br>- 🤝 I’m looking to collaborate on WordPress projects and frontend development using React.<br>- 🆘 I’m looking for help with advanced JavaScript challenges and complex WordPress plugin development.<br>- 💬 Ask me about WordPress development, frontend development (HTML, CSS, JavaScript, React), or SEO.<br>- 😄 Fun fact: I love solving bugs and optimizing websites for performance and efficiency!<br>
+About Me:
+Hi there! 👋
+
+- 🔭 I’m currently working on creating a WordPress plugin that allows users to build customizable business cards.
+- 🌱 I’m currently learning WordPress theme and plugin development.
+- 🤝 I’m looking to collaborate on WordPress projects and frontend development using React.
+- 🆘 I’m looking for help with advanced JavaScript challenges and complex WordPress plugin development.
+- 💬 Ask me about WordPress development, frontend development (HTML, CSS, JavaScript, React), or SEO.
+- 😄 Fun fact: I love solving bugs and optimizing websites for performance and efficiency!
 
 
 # 💻 Tech Stack:
