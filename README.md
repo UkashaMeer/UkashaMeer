@@ -1,39 +1,44 @@
-## 👋 Hi, I'm Ukasha Meer
+# Ukasha Meer
 
-🚀 Full Stack Developer (MERN) | SaaS Builder | Product Engineer  
+Full Stack Developer (MERN) • SaaS Builder • Product Engineer
 
-🔭 Currently building **Denzif** – a dental clinic management SaaS with appointments, dashboards, billing & automation.  
-🌱 Learning scalable backend architecture, system design, and cloud deployment.  
-🤝 Open to collaborating on MERN stack, Next.js, and SaaS products.  
-🧠 Interested in AI integrations, automation, and building startup-level software.  
-💬 Ask me about React, Node.js, MongoDB, APIs, and full-stack development.  
-⚡ Fun fact: I prefer building real products over doing tutorials.
+I am a full stack developer focused on building scalable SaaS products and real-world software solutions.
+
+Currently building **Denzif**, a dental clinic management platform with appointments, dashboards, billing, and automation workflows.
+
+I am learning scalable backend architecture, system design, and cloud infrastructure for production-grade applications.
+
+Open to collaborating on MERN stack, Next.js, and SaaS products.
+
+You can ask me about React, Node.js, MongoDB, APIs, and full-stack development.
+
+I prefer building real products over doing tutorials.
 
 ---
 
-## 🧑‍💻 Tech Stack
+## Tech Stack
 
-**Frontend:**  
+Frontend  
 React, Next.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
 
-**Backend:**  
+Backend  
 Node.js, Express.js, REST APIs
 
-**Databases:**  
+Databases  
 MongoDB, Firebase, MySQL
 
-**Tools & Platforms:**  
-Git, GitHub, Vercel, Netlify, Docker (learning), NPM, Figma, Canva
+Tools & Platforms  
+Git, GitHub, Vercel, Netlify, Docker, NPM, Figma, Canva
 
 ---
 
-## 📊 GitHub Stats
-<!-- Add GitHub stats card -->
+## Projects & Links
+
+Denzif SaaS Platform  
+https://denzif.com  
+
+Portfolio  
+https://ukasha-meer-portfolio.vercel.app/  
 
 ---
 
-## 🏆 GitHub Trophies
-<!-- Add trophies badge -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
